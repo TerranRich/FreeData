@@ -1,0 +1,419 @@
+UTC Offset,Time Zone,Country
+-11:00,Pacific/Midway,United States Minor Outlying Islands
+-11:00,Pacific/Niue,Niue
+-11:00,Pacific/Pago_Pago,American Samoa
+-10:00,America/Adak,United States
+-10:00,Pacific/Honolulu,United States
+-10:00,Pacific/Rarotonga,Cook Islands
+-10:00,Pacific/Tahiti,French Polynesia
+-9:30,Pacific/Marquesas,French Polynesia
+-9:00,America/Anchorage,United States
+-9:00,America/Juneau,United States
+-9:00,America/Metlakatla,United States
+-9:00,America/Nome,United States
+-9:00,America/Sitka,United States
+-9:00,America/Yakutat,United States
+-9:00,Pacific/Gambier,French Polynesia
+-8:00,America/Los_Angeles,United States
+-8:00,America/Tijuana,Mexico
+-8:00,America/Vancouver,Canada
+-8:00,Pacific/Pitcairn,Pitcairn
+-7:00,America/Boise,United States
+-7:00,America/Cambridge_Bay,Canada
+-7:00,America/Ciudad_Juarez,Mexico
+-7:00,America/Creston,Canada
+-7:00,America/Dawson,Canada
+-7:00,America/Dawson_Creek,Canada
+-7:00,America/Denver,United States
+-7:00,America/Edmonton,Canada
+-7:00,America/Fort_Nelson,Canada
+-7:00,America/Hermosillo,Mexico
+-7:00,America/Inuvik,Canada
+-7:00,America/Mazatlan,Mexico
+-7:00,America/Phoenix,United States
+-7:00,America/Whitehorse,Canada
+-7:00,America/Yellowknife,Canada
+-6:00,America/Bahia_Banderas,Mexico
+-6:00,America/Belize,Belize
+-6:00,America/Chicago,United States
+-6:00,America/Chihuahua,Mexico
+-6:00,America/Costa_Rica,Costa Rica
+-6:00,America/El_Salvador,El Salvador
+-6:00,America/Guatemala,Guatemala
+-6:00,America/Indiana/Knox,United States
+-6:00,America/Indiana/Tell_City,United States
+-6:00,America/Managua,Nicaragua
+-6:00,America/Matamoros,Mexico
+-6:00,America/Menominee,United States
+-6:00,America/Merida,Mexico
+-6:00,America/Mexico_City,Mexico
+-6:00,America/Monterrey,Mexico
+-6:00,America/North_Dakota/Beulah,United States
+-6:00,America/North_Dakota/Center,United States
+-6:00,America/North_Dakota/New_Salem,United States
+-6:00,America/Ojinaga,Mexico
+-6:00,America/Rankin_Inlet,Canada
+-6:00,America/Regina,Canada
+-6:00,America/Resolute,Canada
+-6:00,America/Swift_Current,Canada
+-6:00,America/Tegucigalpa,Honduras
+-6:00,America/Winnipeg,Canada
+-6:00,Pacific/Easter,Chile
+-6:00,Pacific/Galapagos,Ecuador
+-5:00,America/Atikokan,Canada
+-5:00,America/Bogota,Colombia
+-5:00,America/Cancun,Mexico
+-5:00,America/Cayman,Cayman Islands
+-5:00,America/Detroit,United States
+-5:00,America/Eirunepe,Brazil
+-5:00,America/Grand_Turk,Turks and Caicos Islands
+-5:00,America/Guayaquil,Ecuador
+-5:00,America/Havana,Cuba
+-5:00,America/Indiana/Indianapolis,United States
+-5:00,America/Indiana/Marengo,United States
+-5:00,America/Indiana/Petersburg,United States
+-5:00,America/Indiana/Vevay,United States
+-5:00,America/Indiana/Vincennes,United States
+-5:00,America/Indiana/Winamac,United States
+-5:00,America/Iqaluit,Canada
+-5:00,America/Jamaica,Jamaica
+-5:00,America/Kentucky/Louisville,United States
+-5:00,America/Kentucky/Monticello,United States
+-5:00,America/Lima,Peru
+-5:00,America/Nassau,Bahamas
+-5:00,America/New_York,United States
+-5:00,America/Panama,Panama
+-5:00,America/Port-au-Prince,Haiti
+-5:00,America/Rio_Branco,Brazil
+-5:00,America/Toronto,Canada
+-4:00,America/Anguilla,Anguilla
+-4:00,America/Antigua,Antigua and Barbuda
+-4:00,America/Aruba,Aruba
+-4:00,America/Asuncion,Paraguay
+-4:00,America/Barbados,Barbados
+-4:00,America/Blanc-Sablon,Canada
+-4:00,America/Boa_Vista,Brazil
+-4:00,America/Campo_Grande,Brazil
+-4:00,America/Caracas,Venezuela
+-4:00,America/Cuiaba,Brazil
+-4:00,America/Curacao,Curacao
+-4:00,America/Dominica,Dominica
+-4:00,America/Glace_Bay,Canada
+-4:00,America/Goose_Bay,Canada
+-4:00,America/Grenada,Grenada
+-4:00,America/Guadeloupe,Guadeloupe
+-4:00,America/Guyana,Guyana
+-4:00,America/Halifax,Canada
+-4:00,America/Kralendijk,"Bonaire, Saint Eustatius and Saba"
+-4:00,America/La_Paz,Bolivia
+-4:00,America/Lower_Princes,Sint Maarten
+-4:00,America/Manaus,Brazil
+-4:00,America/Marigot,Saint Martin
+-4:00,America/Martinique,Martinique
+-4:00,America/Moncton,Canada
+-4:00,America/Montserrat,Montserrat
+-4:00,America/Porto_Velho,Brazil
+-4:00,America/Port_of_Spain,Trinidad and Tobago
+-4:00,America/Puerto_Rico,Puerto Rico
+-4:00,America/Santiago,Chile
+-4:00,America/Santo_Domingo,Dominican Republic
+-4:00,America/St_Barthelemy,Saint Barthelemy
+-4:00,America/St_Kitts,Saint Kitts and Nevis
+-4:00,America/St_Lucia,Saint Lucia
+-4:00,America/St_Thomas,U.S. Virgin Islands
+-4:00,America/St_Vincent,Saint Vincent and the Grenadines
+-4:00,America/Thule,Greenland
+-4:00,America/Tortola,British Virgin Islands
+-4:00,Atlantic/Bermuda,Bermuda
+-3:30,America/St_Johns,Canada
+-3:00,America/Araguaina,Brazil
+-3:00,America/Argentina/Buenos_Aires,Argentina
+-3:00,America/Argentina/Catamarca,Argentina
+-3:00,America/Argentina/Cordoba,Argentina
+-3:00,America/Argentina/Jujuy,Argentina
+-3:00,America/Argentina/La_Rioja,Argentina
+-3:00,America/Argentina/Mendoza,Argentina
+-3:00,America/Argentina/Rio_Gallegos,Argentina
+-3:00,America/Argentina/Salta,Argentina
+-3:00,America/Argentina/San_Juan,Argentina
+-3:00,America/Argentina/San_Luis,Argentina
+-3:00,America/Argentina/Tucuman,Argentina
+-3:00,America/Argentina/Ushuaia,Argentina
+-3:00,America/Bahia,Brazil
+-3:00,America/Belem,Brazil
+-3:00,America/Cayenne,French Guiana
+-3:00,America/Fortaleza,Brazil
+-3:00,America/Maceio,Brazil
+-3:00,America/Miquelon,Saint Pierre and Miquelon
+-3:00,America/Montevideo,Uruguay
+-3:00,America/Paramaribo,Suriname
+-3:00,America/Punta_Arenas,Chile
+-3:00,America/Recife,Brazil
+-3:00,America/Santarem,Brazil
+-3:00,America/Sao_Paulo,Brazil
+-3:00,Antarctica/Palmer,Antarctica
+-3:00,Antarctica/Rothera,Antarctica
+-3:00,Atlantic/Stanley,Falkland Islands
+-2:00,America/Noronha,Brazil
+-2:00,America/Nuuk,Greenland
+-2:00,Atlantic/South_Georgia,South Georgia and the South Sandwich Islands
+-1:00,America/Scoresbysund,Greenland
+-1:00,Atlantic/Azores,Portugal
+-1:00,Atlantic/Cape_Verde,Cabo Verde
+0:00,Africa/Abidjan,Ivory Coast
+0:00,Africa/Accra,Ghana
+0:00,Africa/Bamako,Mali
+0:00,Africa/Banjul,Gambia
+0:00,Africa/Bissau,Guinea-Bissau
+0:00,Africa/Casablanca,Morocco
+0:00,Africa/Conakry,Guinea
+0:00,Africa/Dakar,Senegal
+0:00,Africa/El_Aaiun,Western Sahara
+0:00,Africa/Freetown,Sierra Leone
+0:00,Africa/Lome,Togo
+0:00,Africa/Monrovia,Liberia
+0:00,Africa/Nouakchott,Mauritania
+0:00,Africa/Ouagadougou,Burkina Faso
+0:00,Africa/Sao_Tome,Sao Tome and Principe
+0:00,America/Danmarkshavn,Greenland
+0:00,Antarctica/Troll,Antarctica
+0:00,Atlantic/Canary,Spain
+0:00,Atlantic/Faroe,Faroe Islands
+0:00,Atlantic/Madeira,Portugal
+0:00,Atlantic/Reykjavik,Iceland
+0:00,Atlantic/St_Helena,Saint Helena
+0:00,Europe/Dublin,Ireland
+0:00,Europe/Guernsey,Guernsey
+0:00,Europe/Isle_of_Man,Isle of Man
+0:00,Europe/Jersey,Jersey
+0:00,Europe/Lisbon,Portugal
+0:00,Europe/London,United Kingdom
+1:00,Africa/Algiers,Algeria
+1:00,Africa/Bangui,Central African Republic
+1:00,Africa/Brazzaville,Republic of the Congo
+1:00,Africa/Ceuta,Spain
+1:00,Africa/Douala,Cameroon
+1:00,Africa/Kinshasa,Democratic Republic of the Congo
+1:00,Africa/Lagos,Nigeria
+1:00,Africa/Libreville,Gabon
+1:00,Africa/Luanda,Angola
+1:00,Africa/Malabo,Equatorial Guinea
+1:00,Africa/Ndjamena,Chad
+1:00,Africa/Niamey,Niger
+1:00,Africa/Porto-Novo,Benin
+1:00,Africa/Tunis,Tunisia
+1:00,Africa/Windhoek,Namibia
+1:00,Arctic/Longyearbyen,Svalbard and Jan Mayen
+1:00,Europe/Amsterdam,The Netherlands
+1:00,Europe/Andorra,Andorra
+1:00,Europe/Belgrade,Serbia
+1:00,Europe/Berlin,Germany
+1:00,Europe/Bratislava,Slovakia
+1:00,Europe/Brussels,Belgium
+1:00,Europe/Budapest,Hungary
+1:00,Europe/Copenhagen,Denmark
+1:00,Europe/Gibraltar,Gibraltar
+1:00,Europe/Ljubljana,Slovenia
+1:00,Europe/Luxembourg,Luxembourg
+1:00,Europe/Madrid,Spain
+1:00,Europe/Malta,Malta
+1:00,Europe/Monaco,Monaco
+1:00,Europe/Oslo,Norway
+1:00,Europe/Paris,France
+1:00,Europe/Podgorica,Montenegro
+1:00,Europe/Prague,Czechia
+1:00,Europe/Rome,Italy
+1:00,Europe/San_Marino,San Marino
+1:00,Europe/Sarajevo,Bosnia and Herzegovina
+1:00,Europe/Skopje,North Macedonia
+1:00,Europe/Stockholm,Sweden
+1:00,Europe/Tirane,Albania
+1:00,Europe/Vaduz,Liechtenstein
+1:00,Europe/Vatican,Vatican
+1:00,Europe/Vienna,Austria
+1:00,Europe/Warsaw,Poland
+1:00,Europe/Zagreb,Croatia
+1:00,Europe/Zurich,Switzerland
+2:00,Africa/Blantyre,Malawi
+2:00,Africa/Bujumbura,Burundi
+2:00,Africa/Cairo,Egypt
+2:00,Africa/Gaborone,Botswana
+2:00,Africa/Harare,Zimbabwe
+2:00,Africa/Johannesburg,South Africa
+2:00,Africa/Juba,South Sudan
+2:00,Africa/Khartoum,Sudan
+2:00,Africa/Kigali,Rwanda
+2:00,Africa/Lubumbashi,Democratic Republic of the Congo
+2:00,Africa/Lusaka,Zambia
+2:00,Africa/Maputo,Mozambique
+2:00,Africa/Maseru,Lesotho
+2:00,Africa/Mbabane,Eswatini
+2:00,Africa/Tripoli,Libya
+2:00,Asia/Beirut,Lebanon
+2:00,Asia/Famagusta,Cyprus
+2:00,Asia/Gaza,Palestinian Territory
+2:00,Asia/Hebron,Palestinian Territory
+2:00,Asia/Jerusalem,Israel
+2:00,Asia/Nicosia,Cyprus
+2:00,Europe/Athens,Greece
+2:00,Europe/Bucharest,Romania
+2:00,Europe/Chisinau,Moldova
+2:00,Europe/Helsinki,Finland
+2:00,Europe/Kaliningrad,Russia
+2:00,Europe/Kyiv,Ukraine
+2:00,Europe/Mariehamn,Aland Islands
+2:00,Europe/Riga,Latvia
+2:00,Europe/Sofia,Bulgaria
+2:00,Europe/Tallinn,Estonia
+2:00,Europe/Vilnius,Lithuania
+3:00,Africa/Addis_Ababa,Ethiopia
+3:00,Africa/Asmara,Eritrea
+3:00,Africa/Dar_es_Salaam,Tanzania
+3:00,Africa/Djibouti,Djibouti
+3:00,Africa/Kampala,Uganda
+3:00,Africa/Mogadishu,Somalia
+3:00,Africa/Nairobi,Kenya
+3:00,Antarctica/Syowa,Antarctica
+3:00,Asia/Aden,Yemen
+3:00,Asia/Amman,Jordan
+3:00,Asia/Baghdad,Iraq
+3:00,Asia/Bahrain,Bahrain
+3:00,Asia/Damascus,Syria
+3:00,Asia/Kuwait,Kuwait
+3:00,Asia/Qatar,Qatar
+3:00,Asia/Riyadh,Saudi Arabia
+3:00,Europe/Istanbul,Turkey
+3:00,Europe/Kirov,Russia
+3:00,Europe/Minsk,Belarus
+3:00,Europe/Moscow,Russia
+3:00,Europe/Simferopol,Ukraine
+3:00,Europe/Volgograd,Russia
+3:00,Indian/Antananarivo,Madagascar
+3:00,Indian/Comoro,Comoros
+3:00,Indian/Mayotte,Mayotte
+3:30,Asia/Tehran,Iran
+4:00,Asia/Baku,Azerbaijan
+4:00,Asia/Dubai,United Arab Emirates
+4:00,Asia/Muscat,Oman
+4:00,Asia/Tbilisi,Georgia
+4:00,Asia/Yerevan,Armenia
+4:00,Europe/Astrakhan,Russia
+4:00,Europe/Samara,Russia
+4:00,Europe/Saratov,Russia
+4:00,Europe/Ulyanovsk,Russia
+4:00,Indian/Mahe,Seychelles
+4:00,Indian/Mauritius,Mauritius
+4:00,Indian/Reunion,Reunion
+4:30,Asia/Kabul,Afghanistan
+5:00,Antarctica/Mawson,Antarctica
+5:00,Asia/Aqtau,Kazakhstan
+5:00,Asia/Aqtobe,Kazakhstan
+5:00,Asia/Ashgabat,Turkmenistan
+5:00,Asia/Atyrau,Kazakhstan
+5:00,Asia/Dushanbe,Tajikistan
+5:00,Asia/Karachi,Pakistan
+5:00,Asia/Oral,Kazakhstan
+5:00,Asia/Qyzylorda,Kazakhstan
+5:00,Asia/Samarkand,Uzbekistan
+5:00,Asia/Tashkent,Uzbekistan
+5:00,Asia/Yekaterinburg,Russia
+5:00,Indian/Kerguelen,French Southern Territories
+5:00,Indian/Maldives,Maldives
+5:30,Asia/Colombo,Sri Lanka
+5:30,Asia/Kolkata,India
+5:45,Asia/Kathmandu,Nepal
+6:00,Antarctica/Vostok,Antarctica
+6:00,Asia/Almaty,Kazakhstan
+6:00,Asia/Bishkek,Kyrgyzstan
+6:00,Asia/Dhaka,Bangladesh
+6:00,Asia/Omsk,Russia
+6:00,Asia/Qostanay,Kazakhstan
+6:00,Asia/Thimphu,Bhutan
+6:00,Asia/Urumqi,China
+6:00,Indian/Chagos,British Indian Ocean Territory
+6:30,Asia/Yangon,Myanmar
+6:30,Indian/Cocos,Cocos Islands
+7:00,Antarctica/Davis,Antarctica
+7:00,Asia/Bangkok,Thailand
+7:00,Asia/Barnaul,Russia
+7:00,Asia/Hovd,Mongolia
+7:00,Asia/Ho_Chi_Minh,Vietnam
+7:00,Asia/Jakarta,Indonesia
+7:00,Asia/Krasnoyarsk,Russia
+7:00,Asia/Novokuznetsk,Russia
+7:00,Asia/Novosibirsk,Russia
+7:00,Asia/Phnom_Penh,Cambodia
+7:00,Asia/Pontianak,Indonesia
+7:00,Asia/Tomsk,Russia
+7:00,Asia/Vientiane,Laos
+7:00,Indian/Christmas,Christmas Island
+8:00,Asia/Brunei,Brunei
+8:00,Asia/Choibalsan,Mongolia
+8:00,Asia/Hong_Kong,Hong Kong
+8:00,Asia/Irkutsk,Russia
+8:00,Asia/Kuala_Lumpur,Malaysia
+8:00,Asia/Kuching,Malaysia
+8:00,Asia/Macau,Macao
+8:00,Asia/Makassar,Indonesia
+8:00,Asia/Manila,Philippines
+8:00,Asia/Shanghai,China
+8:00,Asia/Singapore,Singapore
+8:00,Asia/Taipei,Taiwan
+8:00,Asia/Ulaanbaatar,Mongolia
+8:00,Australia/Perth,Australia
+8:45,Australia/Eucla,Australia
+9:00,Asia/Chita,Russia
+9:00,Asia/Dili,Timor Leste
+9:00,Asia/Jayapura,Indonesia
+9:00,Asia/Khandyga,Russia
+9:00,Asia/Pyongyang,North Korea
+9:00,Asia/Seoul,South Korea
+9:00,Asia/Tokyo,Japan
+9:00,Asia/Yakutsk,Russia
+9:00,Pacific/Palau,Palau
+9:30,Australia/Adelaide,Australia
+9:30,Australia/Broken_Hill,Australia
+9:30,Australia/Darwin,Australia
+10:00,Antarctica/DumontDUrville,Antarctica
+10:00,Antarctica/Macquarie,Australia
+10:00,Asia/Ust-Nera,Russia
+10:00,Asia/Vladivostok,Russia
+10:00,Australia/Brisbane,Australia
+10:00,Australia/Hobart,Australia
+10:00,Australia/Lindeman,Australia
+10:00,Australia/Melbourne,Australia
+10:00,Australia/Sydney,Australia
+10:00,Pacific/Chuuk,Micronesia
+10:00,Pacific/Guam,Guam
+10:00,Pacific/Port_Moresby,Papua New Guinea
+10:00,Pacific/Saipan,Northern Mariana Islands
+10:30,Australia/Lord_Howe,Australia
+11:00,Antarctica/Casey,Antarctica
+11:00,Asia/Magadan,Russia
+11:00,Asia/Sakhalin,Russia
+11:00,Asia/Srednekolymsk,Russia
+11:00,Pacific/Bougainville,Papua New Guinea
+11:00,Pacific/Efate,Vanuatu
+11:00,Pacific/Guadalcanal,Solomon Islands
+11:00,Pacific/Kosrae,Micronesia
+11:00,Pacific/Norfolk,Norfolk Island
+11:00,Pacific/Noumea,New Caledonia
+11:00,Pacific/Pohnpei,Micronesia
+12:00,Antarctica/McMurdo,Antarctica
+12:00,Asia/Anadyr,Russia
+12:00,Asia/Kamchatka,Russia
+12:00,Pacific/Auckland,New Zealand
+12:00,Pacific/Fiji,Fiji
+12:00,Pacific/Funafuti,Tuvalu
+12:00,Pacific/Kwajalein,Marshall Islands
+12:00,Pacific/Majuro,Marshall Islands
+12:00,Pacific/Nauru,Nauru
+12:00,Pacific/Tarawa,Kiribati
+12:00,Pacific/Wake,United States Minor Outlying Islands
+12:00,Pacific/Wallis,Wallis and Futuna
+12:45,Pacific/Chatham,New Zealand
+13:00,Pacific/Apia,Samoa
+13:00,Pacific/Fakaofo,Tokelau
+13:00,Pacific/Kanton,Kiribati
+13:00,Pacific/Tongatapu,Tonga
+14:00,Pacific/Kiritimati,Kiribati
